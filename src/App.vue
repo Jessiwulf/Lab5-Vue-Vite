@@ -9,7 +9,6 @@ const { messages } = storeToRefs(store)
 </script>
 
 <template>
-  //fix
     <SpeedInsights />
   <div class="text-center font-sans text-gray-700 antialias">
     <header>
